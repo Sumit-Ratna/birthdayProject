@@ -25,4 +25,4 @@ document.getElementById('surpriseButton').addEventListener('click', function() {
 });
 
 // Optional: Add a name dynamically (you can replace this with a prompt or other logic)
-document.getElementById('name').textContent = 'Sumit'; // Replace 'John' with the person's name
+document.getElementById('name').textContent = 'Anu'; // Replace 'John' with the person's name
